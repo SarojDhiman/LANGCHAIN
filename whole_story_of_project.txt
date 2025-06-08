@@ -1,0 +1,18 @@
+DeepSeek R1-0528: A Next-Gen AI Reasoning Model
+DeepSeek R1-0528 is an advanced open-source AI model designed to excel in reasoning, mathematics, coding, and complex problem-solving. Developed by DeepSeek, a Chinese AI startup, this model is an updated version of the original DeepSeek R1, featuring enhanced inference capabilities, reduced hallucinations, and improved function calling2.
+
+🔍 Key Features & Improvements
+Massive Scale: Trained on 685 billion parameters, making it one of the largest AI models.
+
+Enhanced Reasoning: Improved logical depth, scoring 87.5% in the AIME 2025 test (up from 70% in the previous version).
+
+Optimized Code Generation: Outperforms OpenAI’s o3 mini and rivals Gemini 2.5 Pro in coding benchmarks.
+
+Reduced Hallucinations: AI-generated errors have been cut by 45–50%, making responses more reliable.
+
+Longer Context Handling: Supports up to 64K tokens, allowing for deeper analysis.
+
+Open-Source & Cost-Efficient: Developed for just $6 million, compared to billions spent by competitors.
+
+🚀 Why It Matters
+DeepSeek R1-0528 challenges industry leaders like OpenAI and Google, proving that high-performance AI can be built at a fraction of the cost. It is fully open-source, allowing developers and researchers to integrate it into various applications without restrictions.
